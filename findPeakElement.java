@@ -1,3 +1,4 @@
+// optimal approach
 class Solution {
     public int findPeakElement(int[] nums) {
         int high = nums.length-1;
